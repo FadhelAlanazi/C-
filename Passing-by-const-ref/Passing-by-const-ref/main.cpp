@@ -9,7 +9,6 @@
 #include <string>
 
 void myFunc(const std::string& name){
-    
     std::cout << "my name passed " << name <<"\n";
 
 }

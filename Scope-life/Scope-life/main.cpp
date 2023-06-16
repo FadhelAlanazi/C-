@@ -11,8 +11,9 @@
 /**
  * This is my function
  */
+
 void myFunction(){
-    int x = 123;  // x start scope
+    int x = 12;  // x start scope
 } // x end scope
 
 int main(int argc, const char * argv[]) {
