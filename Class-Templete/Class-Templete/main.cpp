@@ -27,5 +27,7 @@ int main(int argc, const char * argv[]) {
     Student s("Ahmad");
     s.print();
   
+    Student s2(34.55);
+    s2.print();
     return 0;
 }
