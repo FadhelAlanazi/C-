@@ -8,7 +8,6 @@
 
 #include <iostream>
 using namespace std;
-
 enum class Weekdays{
     Saturday,
     Sunday,
@@ -20,8 +19,6 @@ enum class Weekdays{
 };
 
 int main(int argc, const char * argv[]) {
-   
     Weekdays day = Weekdays::Saturday;
-    
     return 0;
 }
