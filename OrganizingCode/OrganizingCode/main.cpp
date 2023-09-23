@@ -9,7 +9,7 @@
 #include "Car.h"
 
 int main(int argc, const char * argv[]) {
-    
+    char c1 = 'f';
     Car c(200);
     std::cout<< c.getSpeed()<< std::endl;
     return 0;
